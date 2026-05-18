@@ -15,7 +15,7 @@ class MoodTrackerApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: 'SF Pro Display',
-        scaffoldBackgroundColor: const Color(0xFF1a1a2e),
+        scaffoldBackgroundColor: const Color(0xFF0f0f1e),
       ),
       home: const MoodHomePage(),
     );
