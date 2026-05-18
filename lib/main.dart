@@ -74,7 +74,7 @@ class _MoodHomePageState extends State<MoodHomePage> {
                 style: TextStyle(
                   fontSize: 13,
                   color: Colors.white38,
-                  letterSpacing: 1.5,
+                  letterSpacing: 1.8,
                 ),
               ),
               const SizedBox(height: 40),
