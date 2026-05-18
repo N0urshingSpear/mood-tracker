@@ -62,7 +62,7 @@ class _MoodHomePageState extends State<MoodHomePage> {
         child: SingleChildScrollView(
           child: Column(
             children: [
-              const SizedBox(height: 32),
+              const SizedBox(height: 36),
               // LEGO TITLE
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 20),
