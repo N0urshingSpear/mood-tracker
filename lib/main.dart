@@ -70,7 +70,7 @@ class _MoodHomePageState extends State<MoodHomePage> {
               ),
               const SizedBox(height: 8),
               const Text(
-                'Tap a brick to log your mood',
+                'Tap a brick · log your mood',
                 style: TextStyle(
                   fontSize: 13,
                   color: Colors.white38,
